@@ -11,7 +11,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 - Test scripts for assertions and validations
 
 ## API Documentation:
-- https://documenter.getpostman.com/view/13082503/2sA2xmUAJ1
+- https://documenter.getpostman.com/view/38843421/2sAY4viPB5
   
 ### **Technology used:**
 - Postman
@@ -229,15 +229,16 @@ This project demonstrates API testing using Postman, providing a collection of t
 ## Run Command:  
 - Run Command for Console: 
 ```console 
-newman run Ebrahim_Hossain_SQA.postman_collection.json -e Ebrahim_Hossain_SQA.postman_environment.json 
+newman run Biplab_Kumar_Kundu.postman_collection.json -e Biplab_Kumar_Kundu.postman_environment.json 
 ```
 - Run Command for Report: 
 ```console 
-newman run Ebrahim_Hossain_SQA.postman_collection.json -e Ebrahim_Hossain_SQA.postman_environment.json -r cli,htmlextra
+newman run Biplab_Kumar_Kundu.postman_collection.json -e Biplab_Kumar_Kundu.postman_environment.json -r cli,htmlextra
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/56d08c4a-dfa9-4aa3-8d52-23ccbdf25a10)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/c1680ef6-adc1-4f95-87c5-55a6df798eee)
-![image](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/0e011c95-b3d2-46e1-952b-07938ee0bfa8)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/e5ae708d-6be9-45e8-8996-06a817f13e9d)
+![image](https://github.com/user-attachments/assets/0aab9c51-6c62-4e21-8209-90952517c4ca)
+![image](https://github.com/user-attachments/assets/bb26bdd7-a758-4098-8747-2bf5cb61e3a0)
+![image](https://github.com/user-attachments/assets/27f98cd8-60ba-4c46-87f4-91cba96a8bd6)
+![image](https://github.com/user-attachments/assets/11a3e07f-4fc7-4669-b93f-d21b1e954857)
+
